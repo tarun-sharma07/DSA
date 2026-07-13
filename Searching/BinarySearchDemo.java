@@ -1,3 +1,13 @@
+/*
+Binary Search Implementation in Java
+
+Time Complexity:
+Best Case: O(1)
+Average Case: O(log n)
+Worst Case: O(log n)
+
+Space Complexity: O(1)
+*/
 import java.util.*;
 
 public class BinarySearchDemo{
